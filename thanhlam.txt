@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Thanh Lam ... Test 1
 Test2
+=======
+>>>>>>> parent of d31a192... edit Thanhlam.txt
